@@ -1,0 +1,3 @@
+export { CAPAS_EXEMPLO, CATEGORIAS_EXEMPLO, getCapasPopulares, getCapasRecomendadas, getCapasPorCategoria, pesquisarCapas } from './CapasExemplo';
+export { MockCapaRepository } from './MockCapaRepository';
+export { executarTodosExemplos, exemploListarTodasCapas, exemploListarCapasPopulares, exemploListarCapasRecomendadas, exemploPesquisarCapas, exemploCriarCapa, exemploEditarCapa, exemploExcluirCapa, exemploListarPorCategoria } from './ExemplosUso';
